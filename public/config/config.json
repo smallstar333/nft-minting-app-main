@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ADDRESS": "0x64a4ED4590FBd389C6B69de21683cAE6B2F5c2CD",
+    "SCAN_LINK": "https://ropsten.etherscan.io/address/0x64a4ed4590fbd389c6b69de21683cae6b2f5c2cd",
+    "NETWORK": {
+        "NAME": "Ropsten 测试网络",
+        "SYMBOL": "ETH",
+        "ID": 3
+    },
+    "NFT_NAME": "Nic Meta",
+    "SYMBOL": "NM",
+    "MAX_SUPPLY": 10,
+    "WEI_COST": 4000000000000000000,
+    "DISPLAY_COST": 4,
+    "GAS_LIMIT": 285000,
+    "MARKETPLACE": "Opeansea",
+    "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+    "SHOW_BACKGROUND": true
+}
